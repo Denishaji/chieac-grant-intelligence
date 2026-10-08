@@ -1,0 +1,99 @@
+{
+  "scope": "14 paraphrased primary-source records, 3 program queries, 42 assistant-authored provisional judgments. No independent human review. Includes closed and uncertain records to measure topical retrieval only, not eligibility or availability. Corpus and labels share an author; results may be optimistic.",
+  "labels_sha256": "0c46653a672daee8cdb4813dc460338d9007154d1362a716a1fb7d9f495eaf7b",
+  "corpus_sha256": "260077f626a24d75209240947ad6211fc3eb2ecdd5129ce160a3edd5029428a1",
+  "model": "nomic-embed-text via local Ollama; maximum chunk cosine",
+  "rubric": "Topical research relevance only: 0 unrelated, 1 conditional/adjacent, 2 direct thematic fit. Does not measure eligibility or availability.",
+  "summary": [
+    {
+      "Method": "Keyword baseline",
+      "Mean precision@5": 0.867,
+      "Mean nDCG@5": 0.928
+    },
+    {
+      "Method": "Neural embeddings",
+      "Mean precision@5": 0.8,
+      "Mean nDCG@5": 0.737
+    }
+  ],
+  "details": [
+    {
+      "method": "Keyword baseline",
+      "program": "ELEVATE",
+      "top5": [
+        "cct-workforce",
+        "il-trust",
+        "cct-capital",
+        "joyce-education",
+        "cct-sponsor"
+      ],
+      "precision_at_5": 0.8,
+      "ndcg_at_5": 0.911425983097569
+    },
+    {
+      "method": "Keyword baseline",
+      "program": "IMPACT",
+      "top5": [
+        "cct-coalitions",
+        "cct-workforce",
+        "il-hunger",
+        "cfw-primary",
+        "cct-lgbtq"
+      ],
+      "precision_at_5": 1.0,
+      "ndcg_at_5": 1.0
+    },
+    {
+      "method": "Keyword baseline",
+      "program": "Data Science Alliance",
+      "top5": [
+        "cct-workforce",
+        "cct-capital",
+        "polk-open",
+        "il-trust",
+        "joyce-education"
+      ],
+      "precision_at_5": 0.8,
+      "ndcg_at_5": 0.8724997542842517
+    },
+    {
+      "method": "Neural embeddings",
+      "program": "ELEVATE",
+      "top5": [
+        "cct-workforce",
+        "cct-coalitions",
+        "polk-open",
+        "il-trust",
+        "joyce-education"
+      ],
+      "precision_at_5": 1.0,
+      "ndcg_at_5": 0.9130689212173096
+    },
+    {
+      "method": "Neural embeddings",
+      "program": "IMPACT",
+      "top5": [
+        "cct-coalitions",
+        "cross-resilience",
+        "polk-open",
+        "il-trust",
+        "joyce-education"
+      ],
+      "precision_at_5": 0.8,
+      "ndcg_at_5": 0.8687949224876582
+    },
+    {
+      "method": "Neural embeddings",
+      "program": "Data Science Alliance",
+      "top5": [
+        "il-trust",
+        "polk-open",
+        "cross-resilience",
+        "cct-capital",
+        "cross-seed"
+      ],
+      "precision_at_5": 0.6,
+      "ndcg_at_5": 0.43062490815403953
+    }
+  ]
+}

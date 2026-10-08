@@ -1,0 +1,25 @@
+{
+  "model": "llama3.2:latest",
+  "data_type": "Fictional demo",
+  "source_text": "Mentoring, paid internships and career readiness training help underserved young adults enter employment. Eligible applicants are 501(c)(3) nonprofit organizations serving Illinois. Annual operating budgets must not exceed $500,000. Applications require a program plan and itemized budget.",
+  "result": {
+    "findings": [
+      {
+        "category": "eligibility",
+        "evidence": "Eligible applicants are 501(c)(3) nonprofit organizations serving Illinois.",
+        "verification": "Passage located; interpretation needs human review"
+      },
+      {
+        "category": "eligibility",
+        "evidence": "Annual operating budgets must not exceed $500,000.",
+        "verification": "Passage located; interpretation needs human review"
+      },
+      {
+        "category": "eligibility",
+        "evidence": "Applications require a program plan and itemized budget.",
+        "verification": "Passage located; interpretation needs human review"
+      }
+    ],
+    "rejected": []
+  }
+}

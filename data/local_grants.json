@@ -1,0 +1,327 @@
+[
+  {
+    "id": "cct-capital",
+    "title": "Neighborhood Capital Fund — late-stage projects",
+    "funder": "Chicago Community Trust",
+    "url": "https://www.cct.org/grants/opportunities/rfp-neighborhood-capital-fund/",
+    "status": "open",
+    "deadline": "2026-11-02",
+    "award_ceiling": 1500000,
+    "text": "Real estate development in Cook County, with emphasis on South and West communities. Applicants need site control and 75% of the capital stack secured. Housing projects must include a nonhousing component. Scope forms precede full applications; this is capital development funding.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Site control, secured capital and community partnership require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Site control, secured capital and community partnership require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "cct-coalitions",
+    "title": "Coalitions Advancing Economic Mobility FY27",
+    "funder": "Chicago Community Trust",
+    "url": "https://www.cct.org/grants/opportunities/rfp-coalitions-advancing-economic-mobility-policy-change/",
+    "status": "invitation",
+    "deadline": "2026-10-09",
+    "award_ceiling": 150000,
+    "text": "Coalitions pursuing policy change in income, assets, housing and critical needs in Chicago and Cook County. Annual support can run one to three years. Letters of inquiry closed August 27; full proposals require invitation.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Policy advocacy coalition and prior invitation required.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Policy advocacy coalition and prior invitation required.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ],
+    "prior_stage_deadline": "2026-08-27",
+    "additional_sources": [
+      "https://www.cct.org/wp-content/uploads/2026/08/Coalitions-RFP-FY27-CCT.pdf"
+    ]
+  },
+  {
+    "id": "cct-sponsor",
+    "title": "Sponsorships — 2026 autumn cycle",
+    "funder": "Chicago Community Trust",
+    "url": "https://www.cct.org/grants/opportunities/sponsorships/",
+    "status": "closed",
+    "deadline": "2026-09-21",
+    "award_ceiling": null,
+    "text": "Event sponsorship relating to economic mobility, workforce and community needs. The listed cycle covers events in November and December 2026 and January 2027. Smaller organizations receive priority. Future cycle months are mentioned without confirmed opening dates.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Event support; organization and geographic criteria require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Event support; organization and geographic criteria require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "cross-seed",
+    "title": "Seed Fund — next cycle announced",
+    "funder": "Crossroads Fund",
+    "url": "https://crossroadsfund.org/grants/grant-opportunities/seed-fund/",
+    "status": "forecasted",
+    "deadline": null,
+    "award_ceiling": 15000,
+    "text": "Grassroots social change and organizing. The currently detailed cycle is closed; the grants directory announces a January 2027 opening. Prior-cycle criteria include annual expenses below $500,000. Standalone direct services are not the program's purpose.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "2027 terms are unconfirmed; organizing focus and expenses require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "2027 terms are unconfirmed; organizing focus and expenses require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ],
+    "additional_sources": [
+      "https://crossroadsfund.org/grants/grant-opportunities/"
+    ]
+  },
+  {
+    "id": "cross-resilience",
+    "title": "Community Resilience Fund",
+    "funder": "Crossroads Fund",
+    "url": "https://crossroadsfund.org/grants/grant-opportunities/community-resilience-fund/",
+    "status": "open",
+    "deadline": "2027-05-04",
+    "award_ceiling": 15000,
+    "text": "Rapid-response organizing amid emerging political threats in the Chicago metropolitan region and northwest Indiana. Supports urgent security, crisis planning and campaign adaptation. Routine programming, general operating costs and ordinary budget gaps are excluded. Applications are reviewed on a rolling basis.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Emergent organizing response required; routine software or fellowship work is not enough.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Emergent organizing response required; routine software or fellowship work is not enough.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "cross-youth",
+    "title": "Youth Fund for Social Change",
+    "funder": "Crossroads Fund",
+    "url": "https://crossroadsfund.org/grants/grant-opportunities/youth-fund-for-social-change/",
+    "status": "conflicting",
+    "deadline": null,
+    "award_ceiling": 15000,
+    "text": "Youth-led organizing for social change, with people up to age 30 holding decision-making roles. Program page states closed while the directory says open. Announcement timing is January 2027. Status must be resolved with the funder.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Youth governance and organizing required; conflicting source status.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Youth governance and organizing required; conflicting source status.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ],
+    "additional_sources": [
+      "https://crossroadsfund.org/grants/grant-opportunities/"
+    ]
+  },
+  {
+    "id": "cfw-primary",
+    "title": "Fall Primary Grant Cycle",
+    "funder": "Chicago Foundation for Women",
+    "url": "https://www.cfw.org/grants/",
+    "status": "closed",
+    "deadline": null,
+    "award_ceiling": null,
+    "text": "Support focuses on women, girls and gender-expansive people through economic security, health, freedom from violence and reproductive justice. The primary cycle is listed as closed.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Population focus and full application criteria require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Population focus and full application criteria require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "il-trust",
+    "title": "Charitable Trust — spring 2027 forecast",
+    "funder": "Illinois State Treasurer",
+    "url": "https://www.illinoistreasurer.gov/home/office-of-the-treasurer/charitable-trust-grants/faqs/",
+    "status": "forecasted",
+    "deadline": "2027-03-31",
+    "award_ceiling": 20000,
+    "text": "Next application period is January 1 through March 31, 2027. Illinois nonprofit organizations need at least one full-time paid employee and an annual budget no greater than $1 million. Food and economic/workforce development are named for the next spring cycle.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Illinois domicile, exclusive Illinois service and paid staffing need confirmation; repeat-grantee waiting-period sources differ.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Illinois domicile, exclusive Illinois service and paid staffing need confirmation; repeat-grantee waiting-period sources differ.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ],
+    "opens_on": "2027-01-01",
+    "additional_sources": [
+      "https://www.illinoistreasurer.gov/news/illinois-treasurer-michael-frerichs-announces-new-grants-to-address-hunger-after-federal-cuts/"
+    ]
+  },
+  {
+    "id": "il-hunger",
+    "title": "Hunger Relief Grants — 2026 historical cycle",
+    "funder": "Illinois State Treasurer",
+    "url": "https://www.illinoistreasurer.gov/news/illinois-treasurer-michael-frerichs-announces-new-grants-to-address-hunger-after-federal-cuts/",
+    "status": "closed",
+    "deadline": "2026-07-31",
+    "award_ceiling": 5000,
+    "text": "The 2026 emergency hunger cycle supported volunteer food pantries and soup kitchens with no full-time paid staff. It is a specialized food relief program.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Requires qualifying food relief operations and volunteer staffing model.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Requires qualifying food relief operations and volunteer staffing model.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "polk-open",
+    "title": "Open Application — introduction route",
+    "funder": "Polk Bros. Foundation",
+    "url": "https://www.polkbrosfdn.org/our-grantmaking/open-application",
+    "status": "rolling",
+    "deadline": "2026-12-04",
+    "award_ceiling": null,
+    "text": "Introductions are accepted year-round and reviewed quarterly. December 4, 2026 is the next listed review cutoff. Organizations serving Chicago need nonprofit status or a fiscal sponsor and at least one year of operations. Full proposals follow invitation.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Mission fit, financial documentation and organizational history require review; cutoff is for introductions.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Mission fit, financial documentation and organizational history require review; cutoff is for introductions.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "joyce-education",
+    "title": "Education & Economic Mobility — inquiry route",
+    "funder": "Joyce Foundation",
+    "url": "https://www.joycefdn.org/programs/education-economic-mobility",
+    "status": "rolling",
+    "deadline": null,
+    "award_ceiling": null,
+    "text": "Policy research and advocacy on education, college and career pathways, work-based learning and postsecondary attainment. Focus includes Illinois, Indiana, Michigan and Minnesota. Inquiries are accepted year-round; regular direct-service projects need careful fit review.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Policy/research alignment required; ordinary internship or software funding is not established.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Policy/research alignment required; ordinary internship or software funding is not established.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ],
+    "additional_sources": [
+      "https://www.joycefdn.org/grants"
+    ]
+  },
+  {
+    "id": "cct-workforce",
+    "title": "We Rise Together — youth workforce 2025",
+    "funder": "Chicago Community Trust",
+    "url": "https://www.cct.org/wp-content/uploads/2025/01/FINAL_Workforce-RFP_1.24.25.pdf",
+    "status": "closed",
+    "deadline": "2025-03-13",
+    "award_ceiling": 200000,
+    "text": "Historical Cook County youth workforce opportunity for ages 14–24. Supported paid training, apprenticeships, mentorship and technical skills alongside transportation, childcare and housing barriers. Smaller organizations had a lower award ceiling.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Historical example only; applicant category, youth ages and budget tier require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Historical example only; applicant category, youth ages and budget tier require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "cct-lgbtq",
+    "title": "LGBTQ Community Fund — 2026 cycle",
+    "funder": "Chicago Community Trust",
+    "url": "https://www.cct.org/lgbtq-fund/",
+    "status": "closed",
+    "deadline": "2026-09-02",
+    "award_ceiling": null,
+    "text": "Chicago-area LGBTQ basic needs and civil-rights advocacy funding. The 2026 cycle is closed. Program criteria include an organizational budget below $3.5 million.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Population, geography and strict budget limit require review.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Population, geography and strict budget limit require review.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  },
+  {
+    "id": "walmart-local",
+    "title": "Spark Good Local Grants",
+    "funder": "Walmart",
+    "url": "https://www.walmart.org/how-we-give/program-guidelines/spark-good-local-grants-guidelines",
+    "status": "unclear",
+    "deadline": null,
+    "award_ceiling": 5000,
+    "text": "Local grants of $250–$5,000 support demonstrated needs in the service area of a participating facility. A verified Spark Good account and authorized applicant are required. The page lists FY27 cycles, including August 1–November 30, without explicit calendar years.",
+    "kind": "Curated local source",
+    "retrieved_at": "2026-10-07",
+    "text_basis": "Assistant-written source summary; not a verbatim announcement",
+    "review_notes": "Verify fiscal-year calendar mapping and local facility service area before treating this as open.",
+    "requirements": [
+      {
+        "field": "manual",
+        "value": null,
+        "label": "Verify fiscal-year calendar mapping and local facility service area before treating this as open.",
+        "evidence": "Paraphrase of linked primary source; verify complete terms."
+      }
+    ]
+  }
+]
